@@ -1,6 +1,3 @@
-pyTelegramBotAPI
-requests
-aiohttp
-python-dotenv
 pyrogram
 tgcrypto
+flask
